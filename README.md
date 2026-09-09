@@ -76,4 +76,4 @@ Projeto acadêmico concluído, com testes manuais realizados cobrindo cadastros,
 
 ---
 
-Desenvolvido como atividade prática da disciplina de Linguagem de Programação II — IFMG.
+Desenvolvido como atividade prática da disciplina de Linguagem de Programação II - IFMG.
